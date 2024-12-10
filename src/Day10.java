@@ -84,17 +84,6 @@ public class Day10 {
         }
 
         System.out.println("Part 2 Solution: " + part2Solution());
-
-//        for(List<Integer> list: map){
-//            for(Integer i: list){
-//                System.out.print(i);
-//            }
-//            System.out.println();
-//        }
-
-//        for(Point p : trailHeads){
-//            System.out.printf("(%d,%d)\n", p.row, p.col);
-//        }
     }
 
     private static class Point{
